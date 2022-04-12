@@ -1,8 +1,8 @@
 {
-  "name": "repo-template",
-  "version": "1.0.0-alpha.0",
+  "name": "wordpress-docker-template",
+  "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Pinturas-Acme/repo-template.git",
+  "repository": "git@github.com:antoniomperez/wordpress-docker-template.git",
   "license": "MIT",
   "scripts": {
     "commit": "./node_modules/cz-customizable/standalone.js",

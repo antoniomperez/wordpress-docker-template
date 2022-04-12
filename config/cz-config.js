@@ -32,9 +32,9 @@ module.exports = {
     { value: "WIP", name: "WIP:      Work in progress" },
   ],
 
-  scopes: [{ name: "To Be Changed" }],
+  scopes: [{ name: "wordpress" }, { name: "docker" }],
 
-  allowTicketNumber: true,
+  allowTicketNumber: false,
   isTicketNumberRequired: false,
   ticketNumberPrefix: "#",
   ticketNumberRegExp: "\\d{1,5}",
